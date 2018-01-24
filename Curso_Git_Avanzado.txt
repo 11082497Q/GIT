@@ -1,0 +1,36 @@
+Alejandro Cerezo
+alce65@gmail.com
+
+GIT (2005)
+
+
+
+Facilita el control de veriones y ramas para el proyecto. 
+
+Nos encontramos dos tipos de control de versiones: Sistemas centralizados (CVS, SVN) o Distribuidos (GIT, SCV) estos tienen una copia completa del servidor en cada puesto de trabajo.
+
+Los commit que se realizan es como si hiciera una instantanea de todos los archivos del proyecto.
+
+Es imprescindible configurar un usuario que tenga un correo asociado.
+
+Configuracion del PoerShell para modificar 
+	new-item -type file -force $profile
+esto crea un fichero profile que posteriormente editamos C:\Users\usuario11\Documents\WindowsPowerShell
+
+Se tiene que habilitar la ejecucion de Script en PowerShell
+
+
+Configuracion de Git
+A nivel de sistema ...Git\mingw64\etc\gitconfig
+
+A nivel de usuario en la carptea del usuario esta el fichero gitconfig
+
+Dentro de la carpeta del repositorio el fichero config
+
+Creacion del repositorio --> git init
+
+
+
+Comandos: en esta pagina hay un resumen de los comandos de GIT: http://overapi.com/git
+Tortoise para GIT: https://tortoisegit.org/download/
+
