@@ -34,3 +34,5 @@ Creacion del repositorio --> git init
 Comandos: en esta pagina hay un resumen de los comandos de GIT: http://overapi.com/git
 Tortoise para GIT: https://tortoisegit.org/download/
 
+
+
